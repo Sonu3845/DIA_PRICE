@@ -1,2 +1,7 @@
-pandas
 numpy
+pandas
+Flask
+scikit-learn
+Seaborn
+
+-e .
